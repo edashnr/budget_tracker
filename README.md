@@ -1,4 +1,4 @@
-# 💰Wallet Control - A Simple and User-Friendly Budget Management Application
+# 💰Wallet Control - A Simple Budget Management Application
 
 Wallet Control is a responsive web application developed using React JS, Material UI, and hooks.
 
@@ -22,16 +22,9 @@ With Wallet Control, you can easily keep track of your spending and saving habit
 - **Responsive**: this app can be used on different devices
 - **Alert information**: When something went wrong - you can see different alert messages
 
-## 🛠️Technologies used:
 
-- [x] React JS
-- [x] Hooks and Custom Hooks
-- [x] Material UI
-- [x] JavaScript
-- [x] ES6+features
-- [x] Markdown
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
